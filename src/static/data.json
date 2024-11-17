@@ -1,0 +1,17 @@
+{
+  "IL": {
+    "both": ["Allstate", "National General", "Progressive", "Seneca"],
+    "auto": ["Founders"],
+    "fire": ["Guard", "Hippo", "Lemonade", "Swyfft"]
+  },
+  "IN": {
+    "both": ["Allstate", "National General", "Nationwide", "Progressive"],
+    "auto": [],
+    "fire": ["Hippo", "Lemonade", "Seneca", "Swyfft"]
+  },
+  "MI": {
+    "both": ["Nationwide"],
+    "auto": ["Progressive", "Seneca"],
+    "fire": ["Lemonade", "National General", "Swyfft"]
+  }
+}
